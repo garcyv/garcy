@@ -1,13 +1,4 @@
-## Hola Bienvenido, soy Garcy
-
-
-
-### Encuentame en la web
-* **Videos publicados** [Youtube](https://www.youtube.com/@garcyvalenzuela)
-* **Red profesional:** [Linkedin](https://www.linkedin.com/in/garcyvalenzuela)
-* **Red social:** [Facebook](www.facebook.com)
-
-# Hola, soy garcyv 👋
+#  Hola Bienvenido, soy Garcy 👋
 
 Desarrollador enfocado en **Análisis de Datos** y **Machine Learning**. Mi enfoque se basa en un ciclo constante de:
 > **Acción** (aunque sea mínima) $\rightarrow$ **Progreso** $\rightarrow$ **Motivación**
@@ -30,6 +21,11 @@ Desarrollador enfocado en **Análisis de Datos** y **Machine Learning**. Mi enfo
 * **DevOps:** GitHub Actions, Git.
 
 ---
+
+## Encuentame en la web
+* **Videos publicados** [Youtube](https://www.youtube.com/@garcyvalenzuela)
+* **Red profesional:** [Linkedin](https://www.linkedin.com/in/garcyvalenzuela)
+* **Red social:** [Facebook](www.facebook.com)
 
 ### 📈 Estadísticas de GitHub
 ![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=garcyv&show_icons=true&theme=tokyonight)
